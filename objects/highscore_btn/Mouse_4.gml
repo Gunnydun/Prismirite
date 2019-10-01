@@ -1,0 +1,1 @@
+room = high_score;
