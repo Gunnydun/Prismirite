@@ -1,4 +1,4 @@
-/// @respawn
+/// respawn
 
 x = 640
 y= 992

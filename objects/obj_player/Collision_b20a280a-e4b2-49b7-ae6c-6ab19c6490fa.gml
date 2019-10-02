@@ -1,3 +1,5 @@
+/// enemy bullet collison
+
 if(lives > 1){
 	audio_play_sound(die , 10, false)
 }
@@ -9,9 +11,6 @@ with(obj_enemy_bullet){
 	instance_destroy();
 }
 
-
-
-shot_charged = false;
 alarm[1] = respawn_time;
 	
 

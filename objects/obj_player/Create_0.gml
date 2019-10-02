@@ -1,13 +1,9 @@
-/// @description Initialize player speed
-
-
+/// Initialize player stats
 
 lives = 3;
+
 respawn_time = 50;
 
 x_speed = 5;
-
-shot_recharge = 45;
-shot_charged = true;
 
 

@@ -1,3 +1,5 @@
+/// enemy collison
+
 if(lives > 1){
 	audio_play_sound(die , 10, false)
 }

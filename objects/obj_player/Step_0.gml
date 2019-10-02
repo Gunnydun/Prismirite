@@ -1,4 +1,4 @@
-/// @description Controls player movement
+/// Movement/shots
 
 var dir = 0;
 
